@@ -9,8 +9,9 @@
 	Hello world!  
 </h1>
 
-<P>  The time on the server is ${serverTime}. update now 13:12 </P>
+<P>  The time on the server is ${serverTime}.</P>
 <!-- build test -->
 <!-- deploy test -->
+<!-- 13:08 test -->
 </body>
 </html>
